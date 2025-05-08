@@ -1,0 +1,187 @@
+{
+  "sprites": [
+    {
+      "fileName": "A",
+      "width": 59,
+      "height": 60,
+      "x": 11,
+      "y": 1
+    },
+    {
+      "fileName": "J",
+      "width": 42,
+      "height": 61,
+      "x": 102,
+      "y": 0
+    },
+    {
+      "fileName": "K",
+      "width": 50,
+      "height": 61,
+      "x": 180,
+      "y": 0
+    },
+    {
+      "fileName": "L",
+      "width": 41,
+      "height": 61,
+      "x": 266,
+      "y": 0
+    },
+    {
+      "fileName": "M",
+      "width": 81,
+      "height": 61,
+      "x": 328,
+      "y": 0
+    },
+    {
+      "fileName": "N",
+      "width": 42,
+      "height": 60,
+      "x": 430,
+      "y": 1
+    },
+    {
+      "fileName": "O",
+      "width": 42,
+      "height": 61,
+      "x": 20,
+      "y": 62
+    },
+    {
+      "fileName": "P",
+      "width": 44,
+      "height": 60,
+      "x": 101,
+      "y": 63
+    },
+    {
+      "fileName": "Q",
+      "width": 43,
+      "height": 60,
+      "x": 183,
+      "y": 63
+    },
+    {
+      "fileName": "R",
+      "width": 52,
+      "height": 60,
+      "x": 261,
+      "y": 63
+    },
+    {
+      "fileName": "S",
+      "width": 41,
+      "height": 60,
+      "x": 348,
+      "y": 63
+    },
+    {
+      "fileName": "B",
+      "width": 45,
+      "height": 60,
+      "x": 428,
+      "y": 63
+    },
+    {
+      "fileName": "T",
+      "width": 42,
+      "height": 60,
+      "x": 20,
+      "y": 125
+    },
+    {
+      "fileName": "U",
+      "width": 42,
+      "height": 61,
+      "x": 102,
+      "y": 124
+    },
+    {
+      "fileName": "V",
+      "width": 59,
+      "height": 61,
+      "x": 175,
+      "y": 124
+    },
+    {
+      "fileName": "W",
+      "width": 82,
+      "height": 62,
+      "x": 246,
+      "y": 124
+    },
+    {
+      "fileName": "X",
+      "width": 53,
+      "height": 61,
+      "x": 342,
+      "y": 124
+    },
+    {
+      "fileName": "Y",
+      "width": 42,
+      "height": 61,
+      "x": 430,
+      "y": 124
+    },
+    {
+      "fileName": "Z",
+      "width": 42,
+      "height": 60,
+      "x": 20,
+      "y": 187
+    },
+    {
+      "fileName": "C",
+      "width": 41,
+      "height": 60,
+      "x": 102,
+      "y": 187
+    },
+    {
+      "fileName": "D",
+      "width": 41,
+      "height": 60,
+      "x": 184,
+      "y": 187
+    },
+    {
+      "fileName": "E",
+      "width": 41,
+      "height": 60,
+      "x": 266,
+      "y": 187
+    },
+    {
+      "fileName": "F",
+      "width": 41,
+      "height": 60,
+      "x": 348,
+      "y": 187
+    },
+    {
+      "fileName": "G",
+      "width": 45,
+      "height": 60,
+      "x": 428,
+      "y": 187
+    },
+    {
+      "fileName": "H",
+      "width": 44,
+      "height": 61,
+      "x": 19,
+      "y": 248
+    },
+    {
+      "fileName": "I",
+      "width": 19,
+      "height": 61,
+      "x": 113,
+      "y": 248
+    }
+  ],
+  "type": "font"
+}
