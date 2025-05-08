@@ -1,4 +1,4 @@
-[](https://github.com/ShineAsNever/ShineraEngine/blob/main/res/shinera-logo.png)
+![](https://github.com/ShineAsNever/ShineraEngine/blob/main/res/shinera-logo.png)
 
 ## An C++ library-like Game Engine
 ### Unstable and lacks of features right now.
