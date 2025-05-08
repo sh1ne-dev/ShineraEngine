@@ -4,11 +4,11 @@
 ### Unstable and lacks of features right now.
 
 ## Future Features
-- Audio Manager
-- Global Renderer
-- Multithreading (maybe)
-- Physics
-- 3D (maybe)
+- [-] Audio Manager
+- [-] Global Renderer
+- [-] Multithreading (maybe)
+- [-] Physics
+- [-] 3D (maybe)
 
 ## Linux dependencies
 ### Compiled in Arch Linux (on other distros dependencies may have another names)
