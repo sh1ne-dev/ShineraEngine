@@ -2,7 +2,6 @@
 #define SCENEMANAGER_H
 
 #include <Shinera/scenes/Scene.h>
-#include <iostream>
 
 class SceneManager {
     Scene* m_currentScene = nullptr;
@@ -12,7 +11,6 @@ public:
         if (m_currentScene) m_currentScene->cleanup();
 
         m_currentScene = scene;
-        std::cout << "hey\n";
         m_currentScene->init();
     }
 
@@ -22,7 +20,6 @@ public:
 
     void render() {
         if (m_currentScene) m_currentScene->render();
-        //std::cout << "test: " << (m_currentScene == nullptr) << "\n";
     }
 
     Scene* getCurrentScene() {
