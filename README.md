@@ -3,6 +3,8 @@
 ## An C++ library-like Game Engine
 ### Unstable and lacks of features right now.
 
+Should be compatible with Windows and Linux
+
 ## Future Features
 - Audio Manager
 - Global Renderer
