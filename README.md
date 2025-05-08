@@ -15,5 +15,5 @@ Should be compatible with Windows and Linux
 ## Linux dependencies
 ### Compiled in Arch Linux (on other distros dependencies may have another names)
 ``` 
-gcc stb glew glfw nlohmann_json catch2
+cmake gcc stb glew glfw nlohmann_json catch2
 ```
