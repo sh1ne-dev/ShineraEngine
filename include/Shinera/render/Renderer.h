@@ -1,0 +1,1 @@
+#pragma message("Warning: Renderer isn't ready yet. Sprite can render itself right now")

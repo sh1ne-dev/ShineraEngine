@@ -2,6 +2,8 @@
 // Created by Shine on 3/7/2025.
 //
 
+#pragma message("Warning: BMPFont isn't ready yet.")
+
 #ifndef BMPFONT_H
 #define BMPFONT_H
 
