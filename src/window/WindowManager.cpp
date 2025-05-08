@@ -84,7 +84,7 @@ void WindowManager::applyWindowSize() {
 void WindowManager::createWindow() {
     if(m_window) return;
 
-    m_window = (glfwCreateWindow(m_winSize.x, m_winSize.y, "Sonic 1", nullptr, nullptr));
+    m_window = (glfwCreateWindow(m_winSize.x, m_winSize.y, "", nullptr, nullptr));
     if (!m_window) {
         std::cerr << "GLFW window creation failed!" << std::endl;
         glfwTerminate();
