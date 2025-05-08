@@ -12,4 +12,6 @@
 
 ## Linux dependencies
 ### Compiled in Arch Linux (on other distros dependencies may have another names)
-``` gcc stb glew glfw nlohmann_json catch2```
+``` 
+gcc stb glew glfw nlohmann_json catch2
+```
