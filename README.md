@@ -13,6 +13,7 @@ Should be compatible with Windows and Linux
 - [ ] Multithreading (I'll try) :rocket:
 - [ ] Physics :tada:
 - [ ] 3D (maybe) :sparkles:
+- [ ] Input Manager sorta stuff
 
 ## Linux dependencies :octocat:
 ### Compiled in Arch Linux (on other distros dependencies may have another names)
