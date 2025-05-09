@@ -1,6 +1,6 @@
 ![](https://github.com/ShineAsNever/ShineraEngine/blob/main/res/shinera-logo-readme.png)
 
-Shinera: \ʃɑɪnɛræ\
+Shinera: /ʃɑɪnɛræ/
 
 ## An C++ library-like Game Engine
 ### Unstable and lacks of features right now.
