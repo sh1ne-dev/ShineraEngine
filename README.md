@@ -1,5 +1,5 @@
 <p align=center>
-    <img src="res/shinera-logo.png" height=180 />
+    <img src="res/shinera-logo.png" height=100 />
 </p>
 
 Shinera: /ʃɑɪnɛræ/
