@@ -1,16 +1,8 @@
-
-if(WIN32)
-    set(CMAKE_TOOLCHAIN_FILE "${CMAKE_SOURCE_DIR}/vcpkg/scripts/buildsystems/vcpkg.cmake" CACHE STRING "VCPKG toolchain file")
-    set(VCPKG_TARGET_TRIPLET "x64-windows-static" CACHE STRING "VCPKG Triplet")
-    set(VCPKG_FEATURE_FLAGS manifest-mode)
-endif()
-
 cmake_minimum_required(VERSION 3.29)
 project(Shinera)
 
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
-set(BUILD_TESTS ON)
 
 set(LIBS glfw GLEW::GLEW glm::glm nlohmann_json::nlohmann_json OpenGL::GL)
 
@@ -40,7 +32,15 @@ target_include_directories(${PROJECT_NAME} PRIVATE ${Stb_INCLUDE_DIR})
 
 if(BUILD_TESTS)
 
-    find_package(Catch2 3 REQUIRED)
+    include(FetchContent)
+
+    FetchContent_Declare(
+        Catch2
+        GIT_REPOSITORY https://github.com/catchorg/Catch2.git
+        GIT_TAG v3.5.2
+    )
+
+    FetchContent_MakeAvailable(Catch2)
 
     file(GLOB_RECURSE SOURCES_TESTS tests/src/*.cpp)
 
